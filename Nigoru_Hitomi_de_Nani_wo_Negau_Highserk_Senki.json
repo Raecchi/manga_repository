@@ -22,7 +22,7 @@
     },
     "13": {
       "title": "Dodgy Everyday Life",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133979",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/9p4nzvrbm4n"
@@ -30,7 +30,7 @@
     },
     "11": {
       "title": "The Four-Nation Alliance",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133981",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/a846o382o4x"
@@ -38,7 +38,7 @@
     },
     "12": {
       "title": "Surrounded by Enemies",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133985",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/agyvnx5oj48"
@@ -46,7 +46,7 @@
     },
     "14": {
       "title": "Dodgy Everyday Life (2)",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133988",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/ne7b6labjy5"
@@ -54,7 +54,7 @@
     },
     "16": {
       "title": "A Crushing Blow",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133992",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/md7obamor4p"
@@ -62,7 +62,7 @@
     },
     "15": {
       "title": "And What's Left is Burned to Ashes",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766133999",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/dl7pna3opyo"
@@ -70,7 +70,7 @@
     },
     "16.5": {
       "title": "High Hammer",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1766134006",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/5xy2oqk694l"
@@ -86,6 +86,7 @@
     },
     "17": {
       "title": "What Do You Wish for with Those Murky Eyes",
+      "volume": "4",
       "last_updated": "1766134023",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/ljyqkawony2"
@@ -101,7 +102,7 @@
     },
     "19": {
       "title": "Undercover Breakout",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1766134035",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/pg73odenj7r"
@@ -109,6 +110,7 @@
     },
     "18": {
       "title": "Because I'm Powerless",
+      "volume": "4",
       "last_updated": "1766134036",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/ej7meadxnyd"
@@ -123,6 +125,7 @@
     },
     "20": {
       "title": "Fighting 'till the end",
+      "volume": "4",
       "last_updated": "1766134065",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/lqyeldxeq4d"
@@ -130,6 +133,7 @@
     },
     "21": {
       "title": "A Broken Barrier",
+      "volume": "4",
       "last_updated": "1766134067",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/qb4zp5xzdyj"
