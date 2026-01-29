@@ -14,6 +14,7 @@
     },
     "10": {
       "title": "Demostration of Power",
+      "volume": "2",
       "last_updated": "1766133975",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/bp45omg9q75"
@@ -21,6 +22,7 @@
     },
     "13": {
       "title": "Dodgy Everyday Life",
+      "volume": "3",
       "last_updated": "1766133979",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/9p4nzvrbm4n"
@@ -28,6 +30,7 @@
     },
     "11": {
       "title": "The Four-Nation Alliance",
+      "volume": "3",
       "last_updated": "1766133981",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/a846o382o4x"
@@ -35,6 +38,7 @@
     },
     "12": {
       "title": "Surrounded by Enemies",
+      "volume": "3",
       "last_updated": "1766133985",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/agyvnx5oj48"
@@ -42,6 +46,7 @@
     },
     "14": {
       "title": "Dodgy Everyday Life (2)",
+      "volume": "3",
       "last_updated": "1766133988",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/ne7b6labjy5"
@@ -49,6 +54,7 @@
     },
     "16": {
       "title": "A Crushing Blow",
+      "volume": "3",
       "last_updated": "1766133992",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/md7obamor4p"
@@ -56,6 +62,7 @@
     },
     "15": {
       "title": "And What's Left is Burned to Ashes",
+      "volume": "3",
       "last_updated": "1766133999",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/dl7pna3opyo"
@@ -63,6 +70,7 @@
     },
     "16.5": {
       "title": "High Hammer",
+      "volume": "3",
       "last_updated": "1766134006",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/5xy2oqk694l"
@@ -70,6 +78,7 @@
     },
     "1": {
       "title": "Unreasonable and Equal Death That Befalls Us",
+      "volume": "1",
       "last_updated": "1766134006",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/o24a625b2yl"
@@ -77,6 +86,7 @@
     },
     "17": {
       "title": "What Do You Wish for with Those Murky Eyes",
+      "volume": "4",
       "last_updated": "1766134023",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/ljyqkawony2"
@@ -84,6 +94,7 @@
     },
     "2": {
       "title": "An Unusual Warring World",
+      "volume": "1",
       "last_updated": "1766134034",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/6eyrnaejg7p"
@@ -91,6 +102,7 @@
     },
     "19": {
       "title": "Undercover Breakout",
+      "volume": "4",
       "last_updated": "1766134035",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/pg73odenj7r"
@@ -98,6 +110,7 @@
     },
     "18": {
       "title": "Because I'm Powerless",
+      "volume": "4",
       "last_updated": "1766134036",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/ej7meadxnyd"
@@ -105,13 +118,14 @@
     },
     "22": {
       "title": "Rampage",
-      "last_updated": "1768603827",
+      "last_updated": "1766134055",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny82xq95yb"
+        "HIGHSERK TOMORROW": "/proxy/api/imgchest/chapter/qe4gqmngj7j"
       }
     },
     "20": {
       "title": "Fighting 'till the end",
+      "volume": "4",
       "last_updated": "1766134065",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/lqyeldxeq4d"
@@ -119,6 +133,7 @@
     },
     "21": {
       "title": "A Broken Barrier",
+      "volume": "4",
       "last_updated": "1766134067",
       "groups": {
         "Japanless": "/proxy/api/imgchest/chapter/qb4zp5xzdyj"
@@ -147,6 +162,7 @@
     },
     "3": {
       "title": "The Decisive Battle of Eidenberg",
+      "volume": "1",
       "last_updated": "1766134088",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/agyvnx5kj48"
@@ -154,6 +170,7 @@
     },
     "5": {
       "title": "The Reward is Crimson",
+      "volume": "2",
       "last_updated": "1766134095",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/9p4nzvr9m4n"
@@ -161,6 +178,7 @@
     },
     "4": {
       "title": "Gift from the Netherworld",
+      "volume": "1",
       "last_updated": "1766134096",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/9249k26rmyn"
@@ -168,6 +186,7 @@
     },
     "7": {
       "title": "A Moment of Peace",
+      "volume": "2",
       "last_updated": "1766134101",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/dl7pna32pyo"
@@ -175,6 +194,7 @@
     },
     "6": {
       "title": "Funny and Awkward Winners",
+      "volume": "2",
       "last_updated": "1766134103",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/ne7b6lamjy5"
@@ -182,6 +202,7 @@
     },
     "8": {
       "title": "There's a Demon Laughing in Blind Alleys",
+      "volume": "2",
       "last_updated": "1766134107",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/md7obamnr4p"
@@ -189,6 +210,7 @@
     },
     "9": {
       "title": "There's a Demon Laughing in Blind Alleys (2)",
+      "volume": "2",
       "last_updated": "1766134116",
       "groups": {
         "THE GUILD": "/proxy/api/imgchest/chapter/na7kkaj6b78"
@@ -198,14 +220,7 @@
       "title": "The Narrow Heaven that Holds Conviction",
       "last_updated": "1768598645",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny82xodwyb"
-      }
-    },
-    "28": {
-      "title": "The Living Natural Disaster",
-      "last_updated": "1769655660",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/md7o5qgq24p"
+        "HIGHSERK TOMORROW": "/proxy/api/imgchest/chapter/xny82xodwyb"
       }
     }
   }
